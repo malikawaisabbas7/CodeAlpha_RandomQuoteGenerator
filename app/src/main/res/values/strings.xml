@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Quote Generator</string>
+    <string name="btn_new_quote">New Quote</string>
+    <string name="btn_share">Share</string>
+    <string name="daily_quote_label">DAILY QUOTE</string>
+    <string name="app_title">Inspire Me</string>
+    <string name="share_via">Share Quote via</string>
+    <string name="share_suffix">Shared via Inspire Me — Quote App</string>
+</resources>
